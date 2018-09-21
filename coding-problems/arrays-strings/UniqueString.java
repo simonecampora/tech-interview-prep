@@ -5,7 +5,6 @@ public class UniqueString{
   /*
   Problem: Given a String, find if it is composed of only
            unique characters, i.e. there are no duplicates.
-
   Complexity: This solution has O(1) time complexity as bounded
               to 128 iterations.
   */

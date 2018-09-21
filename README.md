@@ -10,7 +10,8 @@ This is a collection of materials and personal tips that will help you go "one s
 ### Coding problems
 
 #### Arrays and strings
-* [isUnique](coding-problems/arrays-strings/UniqueString.java)
+* [Unique](coding-problems/arrays-strings/UniqueString.java)
+* [Palindrome Permutation](coding-problems/arrays-strings/PalindromePermutation.java)
 
 #### Linked lists
 * TODO
