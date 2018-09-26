@@ -1,7 +1,7 @@
 public class CountIslands{
 
   /*
-  Problem:
+  Problem: given a 2D grid of islands (squares only), count how many islands are there
   Complexity: O(rc) as we have to visit all cells
   */
   public static int CountIslands(char[][] grid){
