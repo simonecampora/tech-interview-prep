@@ -13,6 +13,7 @@ This is a collection of materials and personal tips that will help you go "one s
 * [Unique](coding-problems/arrays-strings/UniqueString.java)
 * [Palindrome Permutation](coding-problems/arrays-strings/PalindromePermutation.java)
 * [URLify](coding-problems/arrays-strings/URLify.java)
+* [CountIslands](coding-problems/arrays-strings/CountIslands.java)
 
 #### Linked lists
 * TODO
