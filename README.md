@@ -14,6 +14,7 @@ This is a collection of materials and personal tips that will help you go "one s
 * [Palindrome Permutation](coding-problems/arrays-strings/PalindromePermutation.java)
 * [URLify](coding-problems/arrays-strings/URLify.java)
 * [CountIslands](coding-problems/arrays-strings/CountIslands.java)
+* [OneAway](coding-problems/arrays-strings/OneAway.java)
 
 #### Linked lists
 * TODO
@@ -38,6 +39,9 @@ This is a collection of materials and personal tips that will help you go "one s
 * **[InterviewBit](https://www.interviewbit.com/courses/programming/)**: Simple and gradual set of coding problems explained in details.
 
 ## System designs
+
+### Basic concepts
+* [Consistent Hashing](notes/system-design/Consistent-Hashing.md)
 
 ### Design problems
 * TODO
