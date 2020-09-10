@@ -63,7 +63,7 @@ This is a list of the most common problems:
 
 ### Useful resources
 * **[Grokking the System Design Interview](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5766466041282560/preview)**: paid course summarizing the basics of system designs from theory brush-up to examples.
-* **[Design Data Intensive Applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+* **[Design Data Intensive Applications](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)**: One of the best book around to explain low-level concepts and build-up your expertise on how data intensive applications have been built in the recent years.
 
 ## Tech Interview Resources
 This is a list of other directories or useful resources while preparing for tech interviews
