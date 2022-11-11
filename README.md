@@ -31,3 +31,4 @@ Preparing for technical interviews is a mix of 1) Coding practice, 2) System Des
 * **[Behavioral Interview Questions](https://github.com/nkatre/Behavioral-Interview-Questions/blob/master/file)**: Huge list of questions to pick and try.
 * **[Hack Your Future](https://github.com/HackYourFuture/interviewpreparation)**: more interview questions.
 * **[Interview Genie for Amazon](https://interviewgenie.com/resources)**: Amazong Leadership Principles-based questions.
+* **[Amazon Interview Whizz](https://amazoninterviewwhizz.com/)**: The most high-quality set of interview prep material for Amazon.
