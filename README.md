@@ -13,6 +13,7 @@ Preparing for technical interviews is a mix of 1) Coding practice, 2) System Des
 * **[LeetCode](https://leetcode.com/problemset/all/)**: One of the most exahustive live-coding web apps out there.
 * **[DopplerHQ](https://github.com/DopplerHQ/awesome-interview-questions)**: Directory of more coding questions explained.
 * **[TheAlgorithms](https://github.com/TheAlgorithms)**: More algorithms grouped by programming language.
+* **[Interview Cake](https://www.interviewcake.com/)**: Programming problems explained!
 
 ## Prep for System design
 * **[Grokking the System Design Interview](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5766466041282560/preview)**: paid course summarizing the basics of system designs from theory brush-up to examples.
